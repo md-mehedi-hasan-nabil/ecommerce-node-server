@@ -1,3 +1,82 @@
 {
-  "products": []
+  "products": [
+    {
+      "title": "Amazon Basics Microfiber Cleaning Cloths, Non-Abrasive, Reusable and Washable - Pack of 24, 12 x16-Inch, Blue, White and Yellow",
+      "price": 120,
+      "quantity": 10,
+      "active": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/81wUWVAiWDL._AC_UL400_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/51nm5XclBkL._SS64_.jpg",
+        "https://m.media-amazon.com/images/I/61fHP1YuJFL._SS64_.jpg"
+      ],
+      "short_description": "Available at a lower price from other sellers that may not offer free Prime shipping.",
+      "long_description": "Ultra soft, non-abrasive microfiber cleaning cloths will not scratch paints, vinyl, glass, finishes or other surfaces Effectively cleans either dry or with liquid cleaners for streak-free and lint-free results Absorbent cleaning cloths soak up eight times their own weight Pack comes with three different towel colors (blue, yellow, and white) Rinse and reuse the durable, washable cleaning cloths 100's of times Imported; 90% Polyester/10% Polyamide construction Each cloth measures approximately 12 x 16 inches",
+      "category": "cloth",
+      "location": "BD",
+      "id": 1
+    },
+    {
+      "title": "The Children's Place Baby Toddler Girls Short Sleeve Graphic T-Shirt",
+      "price": 3000,
+      "quantity": 10,
+      "active": true,
+      "thumbnail": "https://m.media-amazon.com/images/I/814n4aOZDQL._AC_UX466_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/41xeCcn2cNL._SS64_.jpg",
+        "https://m.media-amazon.com/images/I/41st-UMOQbL._SS64_.jpg",
+        "https://m.media-amazon.com/images/I/41ijgIfh1VL._SS64_.jpg"
+      ],
+      "short_description": "The Children’s Place offers a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, uniforms, pajamas, and accessories. Made with premium quality materials at a great value. Kids clothing made simple.",
+      "long_description": "",
+      "category": "cloth",
+      "location": "IN",
+      "id": 2
+    }
+  ],
+  "users": [],
+  "categories": [
+    "cloth"
+  ],
+  "orders": [],
+  "discount": [],
+  "review": [],
+  "payment": [],
+  "country_alpha_code": [
+    {
+      "id": 1,
+      "country": "Bangladesh",
+      "code": "BD"
+    },
+    {
+      "country": "Bhutan",
+      "code": "BT",
+      "id": 2
+    },
+    {
+      "country": "Brazil",
+      "code": "BR",
+      "id": 3
+    },
+    {
+      "country": "China",
+      "code": "CN",
+      "id": 4
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "id": 5
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "id": 6
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "id": 7
+    }
+  ]
 }
