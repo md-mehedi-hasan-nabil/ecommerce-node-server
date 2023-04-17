@@ -5,10 +5,11 @@
       "price": 120,
       "quantity": 10,
       "active": true,
+      "variants": [],
       "thumbnail": "https://m.media-amazon.com/images/I/81wUWVAiWDL._AC_UL400_.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51nm5XclBkL._SS64_.jpg",
-        "https://m.media-amazon.com/images/I/61fHP1YuJFL._SS64_.jpg"
+        "https://m.media-amazon.com/images/I/91srWSvgA3L._AC_SX466_PIbundle-24,TopRight,0,0_SH20_.jpg",
+        "https://m.media-amazon.com/images/I/81wUWVAiWDL._AC_UL400_.jpg"
       ],
       "short_description": "Available at a lower price from other sellers that may not offer free Prime shipping.",
       "long_description": "Ultra soft, non-abrasive microfiber cleaning cloths will not scratch paints, vinyl, glass, finishes or other surfaces Effectively cleans either dry or with liquid cleaners for streak-free and lint-free results Absorbent cleaning cloths soak up eight times their own weight Pack comes with three different towel colors (blue, yellow, and white) Rinse and reuse the durable, washable cleaning cloths 100's of times Imported; 90% Polyester/10% Polyamide construction Each cloth measures approximately 12 x 16 inches",
@@ -21,26 +22,118 @@
       "price": 3000,
       "quantity": 10,
       "active": true,
+      "variants": [],
       "thumbnail": "https://m.media-amazon.com/images/I/814n4aOZDQL._AC_UX466_.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/41xeCcn2cNL._SS64_.jpg",
-        "https://m.media-amazon.com/images/I/41st-UMOQbL._SS64_.jpg",
-        "https://m.media-amazon.com/images/I/41ijgIfh1VL._SS64_.jpg"
+        "https://m.media-amazon.com/images/I/71+667z-8xL._AC_SX466._SX._UX._SY._UY_.jpg",
+        "https://m.media-amazon.com/images/I/81eZ8hBwu9L._AC_SX466._SX._UX._SY._UY_.jpg",
+        "https://m.media-amazon.com/images/I/71WNO3iiecL._AC_SX466._SX._UX._SY._UY_.jpg"
       ],
       "short_description": "The Children’s Place offers a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, uniforms, pajamas, and accessories. Made with premium quality materials at a great value. Kids clothing made simple.",
       "long_description": "",
       "category": "cloth",
       "location": "IN",
       "id": 2
+    },
+    {
+      "title": "The Children's Place Baby Single and Toddler Short Sleeve Family Graphic T-Shirts",
+      "price": 2500,
+      "quantity": 20,
+      "active": true,
+      "variants": [],
+      "thumbnail": "https://m.media-amazon.com/images/I/61KG9Wlf3eL._AC_UX466_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61prQf4mt-L._AC_SX466._SX._UX._SY._UY_.jpg",
+        "https://m.media-amazon.com/images/I/61KG9Wlf3eL._AC_UX466_.jpg",
+        "https://m.media-amazon.com/images/I/61+basKzY+L._AC_SX466._SX._UX._SY._UY_.jpg"
+      ],
+      "short_description": "The Children’s Place offers a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, uniforms, pajamas, and accessories. Made with premium quality materials at a great value. Kids clothing made simple.",
+      "long_description": "",
+      "category": "cloth",
+      "location": "IN",
+      "id": 3
+    },
+    {
+      "title": "The Children's Place Baby Boys' and Toddler Belted Chino Shorts",
+      "price": 2100,
+      "quantity": 20,
+      "active": true,
+      "variants": [],
+      "thumbnail": "https://m.media-amazon.com/images/I/812ivI1wEaL._AC_UX466_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81BghwAlQqL._AC_SX466._SX._UX._SY._UY_.jpg",
+        "https://m.media-amazon.com/images/I/81vq8TCiLnL._AC_SX466._SX._UX._SY._UY_.jpg",
+        "https://m.media-amazon.com/images/I/91Kfl59u-3L._AC_SX466._SX._UX._SY._UY_.jpg"
+      ],
+      "short_description": "The Children’s Place offers a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, uniforms, pajamas, and accessories. Made with premium quality materials at a great value. Kids clothing made simple.",
+      "long_description": "100% Cotton \nImported \nHook and Loop closure \nMachine Wash \nCHINO SHORTS — Pair with a polo or button down top for an easy outfit. \nFABRIC — Made of 100% cotton twill \nCLOSURE — EZ-fit waist features: faux button with hook-and-bar closure, no-zip fly, elasticized back waist and inner adjustable waist tabs",
+      "category": "cloth",
+      "location": "BD",
+      "id": 4
+    },
+    {
+      "title": "Full Sleeve Casual T Shirt For Men - TSH-23 - Maroon And White",
+      "price": 2100,
+      "quantity": 20,
+      "active": true,
+      "variants": [
+        {
+          "size": "M",
+          "color": "Maroon And White"
+        },
+        {
+          "size": "L",
+          "color": "Maroon And White"
+        },
+        {
+          "size": "XL",
+          "color": "Maroon And White"
+        }
+      ],
+      "thumbnail": "https://media.e-valy.com/cms/products/images/2e96722b-9379-4b55-9d9c-f7dff3d65451",
+      "images": [],
+      "short_description": "T-shirts are the most personal canvas for individuals to represent their inner self. This T-Shirt is made from a fine quality fabric which is dense, soft and lends an elegant drape.",
+      "long_description": "It's beautiful color and design will quickly become your favorite t-shirt. So, enhance your collection and upgrade your looks with this nice and comfy t-shirt. Evaly has come up with almost all types of collections considering the buyers. So that they can find the product of their choice and buy the product of their choice.",
+      "category": "cloth shirt",
+      "location": "BD",
+      "id": 5
     }
   ],
-  "users": [],
-  "categories": [
-    "cloth"
+  "users": [
+    {
+      "id": 1,
+      "name": "Brianna Bussey",
+      "profile": "",
+      "email": "briannabussey@gmail.com",
+      "phone": "9124813"
+    },
+    {
+      "id": 2,
+      "name": "Dave Underwood",
+      "profile": "",
+      "email": "dave.underwood@gmail.com",
+      "phone": ""
+    }
   ],
+  "categories": ["cloth", "shirt"],
   "orders": [],
   "discount": [],
-  "review": [],
+  "review": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "product_id": 2,
+      "message": "I’ve used a lot of microfiber towels for rags and most of them aren’t absorbent. I need to be able to use rags for all job not just dusting. These do the trick! They are great for dust and they absorb all the messes my kids make. And for the price!!! I definitely recommend!",
+      "ratting": 5
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "product_id": 1,
+      "message": "Not as big as the last lot and the labels are massive and unnecessary",
+      "ratting": 4
+    }
+  ],
   "payment": [],
   "country_alpha_code": [
     {
