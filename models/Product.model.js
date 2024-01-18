@@ -3,7 +3,8 @@ const { Schema, default: mongoose } = require("mongoose");
 const productSchema = new Schema({
     title: {
         type: String,
-        required: true
+        required: true,
+        unique: true 
     },
     price: {
         type: Number,
@@ -36,10 +37,10 @@ const productSchema = new Schema({
         type: Schema.Types.ObjectId,
         ref: "user"
     },
-    // review: {
-    //     type: [Schema.Types.ObjectId],
-    //     ref: "review"
-    // },
+    review: {
+        type: [Schema.Types.ObjectId],
+        ref: "review"
+    },
     category: {
         type: Schema.Types.ObjectId,
         ref: "category",
