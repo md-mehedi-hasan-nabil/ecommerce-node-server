@@ -4,14 +4,15 @@ const {
   getCart,
   addCart,
   updateProductQuantity,
-  deleteCart
+  deleteCart,
 } = require("../controllers/Cart.controller");
+const verifyToken = require("../middlewares/verifyJwtToken");
 const router = express.Router();
 
 router.get("/", getCarts);
 router.get("/:cartId", getCart);
-router.post("/", addCart);
-router.patch("/:cartId", updateProductQuantity);
-router.delete("/:cartId", deleteCart);
+router.post("/", verifyToken, addCart);
+router.patch("/:cartId", verifyToken, updateProductQuantity);
+router.delete("/:cartId", verifyToken, deleteCart);
 
 module.exports = router;
