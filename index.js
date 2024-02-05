@@ -53,8 +53,6 @@ app.use("/api/order", OrderRouter);
 app.use("/api/traffic-device", TrafficDeviceRoute);
 
 app.get("/", verifyToken, async (req, res) => {
-  // const result = await sendMessageToEmail('mehedihasannabil49@gmail.com', 'Sending Email using Node.js', "That was easy")
-  // console.log(result)
   res.json({
     message: "Hello World"
   })
@@ -66,14 +64,5 @@ app.use(errorHandler)
 
 
 app.listen(port, () => {
-  console.log()
-  console.log(chalk.yellow('/'))
-  console.log(chalk.yellow('/api/auth'))
-  console.log(chalk.yellow('/api/category'))
-  console.log(chalk.yellow('/api/product'))
-  console.log(chalk.yellow('/api/order'))
-  console.log(chalk.yellow('/api/cart'))
-  console.log(chalk.yellow('/api/traffic-device'))
-  console.log()
   console.log(`Server is running on http://localhost:${port}`);
 });
